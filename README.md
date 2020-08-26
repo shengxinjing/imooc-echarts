@@ -1,5 +1,5 @@
 # imooc-echarts
-imooc的ECharts入门教程
+imooc的Apache ECharts (incubating)入门教程
 
 * 浏览器画图原理
     - [svg](01/svg.html)
